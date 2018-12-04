@@ -1,0 +1,9 @@
+dependencies:
+- name: pfc-myapp-back
+  repository: http://52.47.96.40:8081/artifactory/helm-charts
+  version: 0.1.1
+- name: pfc-myapp-front
+  repository: http://52.47.96.40:8081/artifactory/helm-charts
+  version: 0.1.2
+digest: sha256:1a01f66603b90620d84387fb14bd5d21aed9b44d017d441c00fe3c581839a40c
+generated: 2018-12-04T08:58:04.120413+01:00
